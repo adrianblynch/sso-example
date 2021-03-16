@@ -11,6 +11,6 @@
     "koa-passport": "^4.0.1",
     "koa-router": "^7.4.0",
     "koa-session": "^5.8.1",
-    "passport-saml": "^0.33.0"
+    "passport-saml": "^2.0.6"
   }
 }
