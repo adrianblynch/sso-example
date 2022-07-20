@@ -8,7 +8,7 @@
     "koa": "^2.5.0",
     "koa-body": "^2.5.0",
     "koa-morgan": "^1.0.1",
-    "koa-passport": "^4.0.1",
+    "koa-passport": "^5.0.0",
     "koa-router": "^7.4.0",
     "koa-session": "^5.8.1",
     "passport-saml": "^0.33.0"
