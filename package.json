@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "dependencies": {
     "@koa/cors": "2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "dotenv": "^5.0.1",
     "koa": "^2.5.0",
     "koa-body": "^2.5.0",
     "koa-morgan": "^1.0.1",
     "koa-passport": "^4.0.1",
-    "koa-router": "^7.4.0",
+    "koa-router": "^11.0.2",
     "koa-session": "^5.8.1",
     "passport-saml": "^0.33.0"
   }
