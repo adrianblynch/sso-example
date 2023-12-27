@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "@koa/cors": "2",
-    "axios": "^0.18.0",
+    "axios": "^1.6.3",
     "dotenv": "^5.0.1",
     "koa": "^2.5.0",
     "koa-body": "^2.5.0",
